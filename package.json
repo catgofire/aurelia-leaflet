@@ -49,7 +49,7 @@
       "lib": "dist/amd"
     },
     "dependencies": {
-      "aurelia/dependency-injection": "github:aurelia/dependency-injection@^0.9.0",
+      "aurelia/dependency-injection": "github:aurelia/dependency-injection@0.9.0",
       "leaflet": "^0.7.3"
     },
     "devDependencies": {
